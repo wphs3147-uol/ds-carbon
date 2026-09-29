@@ -1,4 +1,5 @@
-Carbon_Intensity_Prediction_Workshop.ipynb
+*.ipynb
+!notebooks/carbon_intensity_demo.ipynb
 
 # Notebook-generated artefacts and local caches.
 .ipynb_checkpoints/
