@@ -1,0 +1,7 @@
+# Original teaching notebook kept locally for reference.
+Carbon_Intensity_Prediction_Workshop.ipynb
+
+# Notebook-generated artefacts and local caches.
+.ipynb_checkpoints/
+__pycache__/
+*.joblib
